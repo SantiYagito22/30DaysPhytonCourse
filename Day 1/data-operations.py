@@ -1,0 +1,7 @@
+print(1 + 2) #addition (+)
+print(3 - 1) #subtraction (-)
+print(11.2 * 2) #multiplication (*)
+print(5 / 2) #division (/)
+print(4 ** 2) #exponential (**)
+print(3 % 2) #modulus (%)
+print(5 // 2) #floor division operator (//)
